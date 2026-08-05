@@ -95,15 +95,29 @@
 
 
 
+## 📫 Connect With Me
 
+<p align="left">
 
-## 📊 GitHub Stats
+<a href="https:www.linkedin.com/in/ziyaulla-khan" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Ziyaulla-khan&theme=dark&hide_border=true" alt="Streak" />
-</div>
+<a href="mailto:khanziyaulla48@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
+<a href="https://github.com/ziyaulla-khan" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+📧 **Email:** `khanziyaulla48@gmail.com`
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ziyaulla-khan
+
+🐙 **GitHub:** https://github.com/ziyaulla-khan
 ---
 
 ## ❤️ Support Me
